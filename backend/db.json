@@ -1,0 +1,14 @@
+{"usuarios":[
+    {"id":1,
+    "nome":"alguem",
+    "email":"joao@iff.com.be"
+
+    },
+    {"id":2,
+    "nome":"sophia",
+    "email":"sophia@iff.com.be"
+
+    }
+
+]
+}  
